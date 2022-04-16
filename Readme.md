@@ -15,7 +15,9 @@ Scripts
     - Script used to scrape Twitter social media platform
    
 dataset
-    - a subset of the collected data  
+
+- a subset of the collected data  
 
 final_report 
-    - it's out final report of the project and analysis
+
+- it's out final report of the project and analysis
